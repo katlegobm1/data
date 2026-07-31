@@ -1,0 +1,22 @@
+[
+   {
+	"p_relative_Url" : "katlegobm1/data/refs/heads/main/prd_info.csv",
+	"p_sink_folder" : "prd_info",
+	"p_sink_file" : "prd_info.csv"
+
+	},
+
+{
+	"p_relative_Url" : "katlegobm1/data/refs/heads/main/sales_details.csv",
+	"p_sink_folder" : "sales_details",
+	"p_sink_file" : "sales_details.csv"
+
+	},
+
+{
+	"p_relative_Url" : "katlegobm1/data/refs/heads/main/cust_info.csv",
+	"p_sink_folder" : "cust_info",
+	"p_sink_file" : "cust_info.csv"
+
+	},
+]
